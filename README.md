@@ -1,32 +1,55 @@
-# Hi, I'm Rohith
+<div align="center">
 
-Data science / machine learning portfolio focused on **experimentation**, **causal inference**, **learning-to-rank**, **recommender systems**, and **forecasting**.
+# Rohith Vairavel
 
-I build end-to-end labs that go beyond toy notebooks — evaluation harnesses, bias correction, uncertainty, and demos you can actually run.
+**Data Scientist · ML Engineer**
 
-**Focus:** Python · causal / exp · ranking · recsys · forecasting
+Experimentation · Causal ML · Ranking · Recsys · Forecasting
 
-[github.com/rohithvairavel-ctrl](https://github.com/rohithvairavel-ctrl)
+[![GitHub](https://img.shields.io/badge/GitHub-rohithvairavel--ctrl-181717?style=for-the-badge&logo=github)](https://github.com/rohithvairavel-ctrl)
+[![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![License](https://img.shields.io/badge/Labs-MIT-green?style=for-the-badge)](https://github.com/rohithvairavel-ctrl)
 
----
-
-## Featured projects
-
-| Project | What it shows |
-| --- | --- |
-| [experimentation-lab](https://github.com/rohithvairavel-ctrl/experimentation-lab) | A/B + switchback, CUPED, sequential testing, SRM, power analysis |
-| [ltr-ranker-lab](https://github.com/rohithvairavel-ctrl/ltr-ranker-lab) | Listwise LTR, position bias, calibration, NDCG vs click models |
-| [recsys-ope-lab](https://github.com/rohithvairavel-ctrl/recsys-ope-lab) | Retrieval/ranking with IPS, SNIPS, and doubly robust OPE |
-| [Ocean-Eye](https://github.com/rohithvairavel-ctrl/Ocean-Eye) | Maritime forensics: SAR/AIS, particle drift, React command center |
-| [FetalSense](https://github.com/rohithvairavel-ctrl/FetalSense) | Self-supervised Transformer for non-invasive fetal ECG / QRS |
-| [customer-churn-ml](https://github.com/rohithvairavel-ctrl/customer-churn-ml) | Churn prediction with SHAP explainability and Streamlit demo |
-
-### Also worth a look
-
-- [causal-uplift-lab](https://github.com/rohithvairavel-ctrl/causal-uplift-lab) — uplift / who-to-treat, meta-learners, Qini & policy value
-- [rag-eval-lab](https://github.com/rohithvairavel-ctrl/rag-eval-lab) — RAG with faithfulness/relevance evaluation harness
-- [conformal-demand-risk](https://github.com/rohithvairavel-ctrl/conformal-demand-risk) · [demand-forecaster](https://github.com/rohithvairavel-ctrl/demand-forecaster) · [graph-fraud-detector](https://github.com/rohithvairavel-ctrl/graph-fraud-detector)
+</div>
 
 ---
 
-*Open to conversations about applied ML, experimentation platforms, and ranking / recsys systems.*
+### About
+
+I build **runnable** DS/ML labs — not notebook dumps. Focus areas: online experiments, off-policy evaluation, learning-to-rank, and applied ML systems with honest metrics and clear threats-to-validity.
+
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=rohithvairavel-ctrl&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohithvairavel-ctrl&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
+</div>
+
+---
+
+### Featured
+
+| | Project | Highlight |
+| :---: | --- | --- |
+| 🧪 | [experimentation-lab](https://github.com/rohithvairavel-ctrl/experimentation-lab) | A/B · CUPED · sequential testing · SRM |
+| 🔎 | [ltr-ranker-lab](https://github.com/rohithvairavel-ctrl/ltr-ranker-lab) | Listwise LTR · position bias · IPS |
+| 🎯 | [recsys-ope-lab](https://github.com/rohithvairavel-ctrl/recsys-ope-lab) | Retrieval · ranking · IPS / SNIPS / DR |
+| 🌊 | [Ocean-Eye](https://github.com/rohithvairavel-ctrl/Ocean-Eye) | Maritime SAR/AIS forensics dashboard |
+| ❤️ | [FetalSense](https://github.com/rohithvairavel-ctrl/FetalSense) | SSL Transformer for fetal ECG / QRS |
+| 📉 | [customer-churn-ml](https://github.com/rohithvairavel-ctrl/customer-churn-ml) | Churn · SHAP · Streamlit |
+
+### More
+
+- [causal-uplift-lab](https://github.com/rohithvairavel-ctrl/causal-uplift-lab) — uplift / who-to-treat
+- [rag-eval-lab](https://github.com/rohithvairavel-ctrl/rag-eval-lab) — RAG evaluation harness
+- [conformal-demand-risk](https://github.com/rohithvairavel-ctrl/conformal-demand-risk) — conformal demand intervals
+- [graph-fraud-detector](https://github.com/rohithvairavel-ctrl/graph-fraud-detector) — graph fraud / collusion
+- [synthetic-data-studio](https://github.com/rohithvairavel-ctrl/synthetic-data-studio) — privacy-preserving synthetic data
+- [review-insight-engine](https://github.com/rohithvairavel-ctrl/review-insight-engine) — review NLP insights
+- [demand-forecaster](https://github.com/rohithvairavel-ctrl/demand-forecaster) — demand forecasting + backtesting
+
+---
+
+<div align="center">
+
+Pin the six **Featured** repos for a clean profile grid.
+
+</div>
