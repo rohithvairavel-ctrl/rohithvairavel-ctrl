@@ -41,6 +41,12 @@ I build **integrated DS / AIML systems** — shared simulators, evaluation harne
 | 🔎 | [ltr-ranker-lab](https://github.com/rohithvairavel-ctrl/ltr-ranker-lab) | Listwise LTR · position bias · IPS |
 | 🎯 | [recsys-ope-lab](https://github.com/rohithvairavel-ctrl/recsys-ope-lab) | Retrieval · ranking · IPS / SNIPS / DR |
 
+### GenAI
+
+| | Project | Highlight |
+| :---: | --- | --- |
+| ✦ | [nova-chat](https://github.com/rohithvairavel-ctrl/nova-chat) | Real-time streaming chatbot · FastAPI SSE · RAG + citations · memory · eval |
+
 ### Applied projects
 
 - [Ocean-Eye](https://github.com/rohithvairavel-ctrl/Ocean-Eye) — maritime SAR/AIS forensics dashboard
